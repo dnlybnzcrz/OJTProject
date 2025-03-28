@@ -2,6 +2,10 @@
   "expo": {
     "name": "RadyoPilipinas",
     "slug": "RadyoPilipinas",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "jsEngine": "hermes",
+    "experiments": {
+      "newArchEnabled": false
+    }
   }
 }
